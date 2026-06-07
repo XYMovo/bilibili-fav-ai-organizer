@@ -20,7 +20,7 @@
     const CONFIG = {
         // DeepSeek API 配置（默认）
         apiUrl: 'https://api.deepseek.com/v1/chat/completions',
-        apiKey: 'sk-0d1656699b3240fca472389bb10975c3', // 你的 DeepSeek Key
+        apiKey: 'sk-xx', // 你的 DeepSeek Key
         model: 'deepseek-v4-flash', // DeepSeek V4 Flash
         temperature: 0.1, // 越低越稳定，分类任务建议 0.1
 
