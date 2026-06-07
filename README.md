@@ -3,6 +3,8 @@
 [中文文档](docs/GUIDE.zh-CN.md) | [English](#)
 
 > 用 AI 自动整理 B 站收藏夹的浏览器用户脚本 | Tampermonkey userscript for auto-organizing Bilibili favorites with AI
+>
+> **原作者：[某不知名的根号三](https://www.kamiwzw.site/posts/bilibili-favorites-ai-organizer-userscript/)**（V8.1）· 本版由 [XYM](https://github.com/XYMovo) 适配改进
 
 ---
 
@@ -121,7 +123,8 @@ See [commits](https://github.com/XYMovo/bilibili-fav-ai-organizer/commits/main) 
 
 ## Credits
 
-- Inspired by [某不知名的根号三's original V8.1 script](https://www.kamiwzw.site/posts/bilibili-favorites-ai-organizer-userscript/)
+- **原作者：[某不知名的根号三](https://www.kamiwzw.site/)** — [博客原文：用油猴脚本+AI自动整理B站收藏夹](https://www.kamiwzw.site/posts/bilibili-favorites-ai-organizer-userscript/)（V8.1，CC BY-NC-SA 4.0）
+- **本版（V9.0）** 由 [XYM](https://github.com/XYMovo) 适配改进：DeepSeek V4 Flash、分批处理、预览模式、多API兼容
 - AI powered by [DeepSeek](https://platform.deepseek.com/)
 
 ---

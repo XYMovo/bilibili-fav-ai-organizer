@@ -229,3 +229,6 @@ model: 'gpt-4o',
 
 > 原始博客：[用油猴脚本+AI自动整理B站收藏夹](https://www.kamiwzw.site/posts/bilibili-favorites-ai-organizer-userscript/)
 > 原作者：某不知名的根号三 | 许可：CC BY-NC-SA 4.0
+> **原作者**：[某不知名的根号三](https://www.kamiwzw.site/posts/bilibili-favorites-ai-organizer-userscript/)（博客原文，V8.1，CC BY-NC-SA 4.0）  
+> **本版（V9.0）**：[XYM](https://github.com/XYMovo) 适配 DeepSeek V4 Flash，增加分批处理、预览模式等功能  
+> 项目地址：[github.com/XYMovo/bilibili-fav-ai-organizer](https://github.com/XYMovo/bilibili-fav-ai-organizer)

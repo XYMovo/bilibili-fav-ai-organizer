@@ -3,7 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      9.0.0
 // @description  使用 DeepSeek AI 自动整理B站收藏夹，支持预览模式、多API适配
-// @author       基于"某不知名的根号三"V8.1改编
+// @author       原版: 某不知名的根号三 (kamiwzw.site) · 改编: XYM (github.com/XYMovo)
+// @license      MIT
 // @match        https://space.bilibili.com/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
@@ -19,7 +20,7 @@
     const CONFIG = {
         // DeepSeek API 配置（默认）
         apiUrl: 'https://api.deepseek.com/v1/chat/completions',
-        apiKey: 'sk-把你的DeepSeek_API_Key填在这里', // 必填！获取地址: platform.deepseek.com
+        apiKey: 'sk-0d1656699b3240fca472389bb10975c3', // 你的 DeepSeek Key
         model: 'deepseek-v4-flash', // DeepSeek V4 Flash
         temperature: 0.1, // 越低越稳定，分类任务建议 0.1
 
