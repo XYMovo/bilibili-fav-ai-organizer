@@ -1,0 +1,13 @@
+# WorkBuddy workspace data
+.workbuddy/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Sensitive config
+*.local
